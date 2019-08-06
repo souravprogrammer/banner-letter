@@ -1,7 +1,7 @@
-# banner-letter
+# Banner-letter
 
 
-About Blett (Banner - Letters) release 1.0.0 , 6 aug 2019
+About Blett (Banner - Letters) Release 1.0.0 , 6 Aug 2019
 --------------------------------------------------------------------------
 Blett is a program that creates large characters out of ordinary
 screen characters like this.
