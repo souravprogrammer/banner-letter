@@ -31,7 +31,7 @@ At this point, you have one choice :-
  the Blett source code, and type 
   1. "gcc Blett.c".
 
- (to execute )
+ (to execute ) 
 
   2. ./ (the name fo the file that you just execute).out 
 
